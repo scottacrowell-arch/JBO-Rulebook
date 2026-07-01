@@ -1,0 +1,9 @@
+{
+  "name": "Westside Rules Hub",
+  "short_name": "Rules Hub",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#14161C",
+  "icons": []
+}
